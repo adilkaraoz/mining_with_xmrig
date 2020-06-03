@@ -12,9 +12,12 @@ The existing configuration connect to https://minexmr.com mining pool and start 
 ## Donate
 if you like this configuration you can take me a coffee.
 
-Monero wallet address: 447yBgRnSpURcbKuK7dWZMEbDhBoqQQSCAJ89GFsDc5x9c8fw5FN53sJQVUjGPHj8R7hZ9g7eNk78DSXiThTGZPqDY1PBrS
-MCL wallet address: RTR3gNmYdTKY9RmM9CJzbp1KJ5MU4z6UGr
-KMD wallet address: RVj4VBWcrWyAPFqiZiGt17QrXxpFNeZKSn
+### Monero wallet address
+447yBgRnSpURcbKuK7dWZMEbDhBoqQQSCAJ89GFsDc5x9c8fw5FN53sJQVUjGPHj8R7hZ9g7eNk78DSXiThTGZPqDY1PBrS
+### MCL wallet address
+RTR3gNmYdTKY9RmM9CJzbp1KJ5MU4z6UGr
+### KMD wallet address
+RVj4VBWcrWyAPFqiZiGt17QrXxpFNeZKSn
 
 # Türkçe
 Bu imaj ile her hangi bir mining havuzuna katılabilir ve mining'e başlayabilirsiniz.
@@ -30,6 +33,9 @@ Varolan konfigürasyon https://minexmr.com mining havuzuna bağlanır ve Monero 
 ## Bağış
 Eğer bu konfigrasyonu sevmişseniz, bana bir kahve ısmarlayabilirsiniz.
 
-Monero adresim: 447yBgRnSpURcbKuK7dWZMEbDhBoqQQSCAJ89GFsDc5x9c8fw5FN53sJQVUjGPHj8R7hZ9g7eNk78DSXiThTGZPqDY1PBrS
-MCL adresim: RTR3gNmYdTKY9RmM9CJzbp1KJ5MU4z6UGr
-KMD adresim: RVj4VBWcrWyAPFqiZiGt17QrXxpFNeZKSn
+### Monero adresim
+447yBgRnSpURcbKuK7dWZMEbDhBoqQQSCAJ89GFsDc5x9c8fw5FN53sJQVUjGPHj8R7hZ9g7eNk78DSXiThTGZPqDY1PBrS
+### MCL adresim
+RTR3gNmYdTKY9RmM9CJzbp1KJ5MU4z6UGr
+### KMD adresim
+RVj4VBWcrWyAPFqiZiGt17QrXxpFNeZKSn
